@@ -10,11 +10,10 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Ecommerce Website**
  
  🌱 I’m currently learning **PYTHON**
 
-💬 Ask me about **sql, powerbi, python... or anything [here](https://github.com/Kotichukkalajosef/surya-vasamsetti/issues)**
+💬 Ask me about **sql, powerbi, python... or anything [here](https://github.com/surya-vasamsetti/issues)**
 
 
  </div>
@@ -33,7 +32,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Data-Visualization-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=r,python,mysql," /><br>
