@@ -36,7 +36,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=r,powerbi" /><br>
+    <img src="https://skillicons.dev/icons?i=r,python,sql" /><br>
 </div>
 
 <br/>
