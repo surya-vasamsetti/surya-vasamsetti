@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Data-Visualization-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=r,python,mysql,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=r,python,mysql" /><br>
 </div>
 
 <br/>
