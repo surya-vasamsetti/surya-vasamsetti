@@ -11,7 +11,7 @@
 <div align="center">
  
  
- 🌱 I’m currently learning **PYTHON**
+ 🌱 I’m currently learning **Machine Learning**
 
 💬 Ask me about **sql, powerbi, python... or anything [here](https://github.com/surya-vasamsetti/issues)**
 
